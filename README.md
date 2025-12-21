@@ -59,22 +59,22 @@ Pour cette analyse, nous utilisons les données **NOAA OISST v2** (Optimum Inter
 
 **Ce que nous cherchons :** Nous allons calculer la moyenne de température sur l'été austral (Jan-Mars) pour identifier la **persistance** de la chaleur, bien plus mortelle qu'un pic isolé.
 
-![Températures_Marines_GBR_2016](MAP_SST_Summmer_2016_GBR.png)
+![Températures_Marines_GBR_2016](src/MAP_SST_Summmer_2016_GBR.png)
 
 
 *Comparaison avec la climatologie (historique) :*
 Lorsque l'on compare l'été 2016 aux moyennes historiques (calcul de la moyenne de la température marine des 30 dernières années - MMM), on identifie une anomalie dépassant 2°C sur certaines zones. Ces **Vagues de Chaleur Marines (MHW)** deviennent critiques lorsqu'elles s'étalent dans le temps.
 
-![Anomalies_Marines_GBR_2016](MAP_Anomalie_heatwave_marine.png)
+![Anomalies_Marines_GBR_2016](src/MAP_Anomalie_heatwave_marine.png)
 
 On remarque que la zone Nord est la plus touché par ces anomalies de vague de chaleur, dépassant dans certains cas les **+2°C en moyenne par rapport au MMM** sur l'été 2016.
 Par curiosité, quelle est la durée moyenne de jours de vague de chaleu sur l'ensemble de la GBR sur l'été 2016 ?
 
-![Graph_anomalie_heatwave](PLOT_Anomalie_heatwave_marine.png)
+![Graph_anomalie_heatwave](src/PLOT_Anomalie_heatwave_marine.png)
 
 **11 jours** de vague de chaleur marine est la moyenne de l'ensemble de la GBR, pour aller plus loin et mettre en corrélation le stress thermique avec le blanchissement des coraux, il est nécessaire d'avoir une visualisation de la vague de chaleur marine sur des zones plus précises afin idenfitifer les zones les plus touchées de la GBR.
 
-![Graph_anomalie_heatwave](MAP_heatwave_2016.png)
+![Graph_anomalie_heatwave](src/MAP_heatwave_2016.png)
 
 On identifie 3 **zones de Vagues de Chaleur Marine** (MHW) de la Grande Barrière de Corail:
 - Zone Nord (MHW longue / > 40j)
@@ -106,7 +106,7 @@ Ce courant de bord génère des **upwellings** (remontées d'eau froide) le long
 
 
 
-![Correlation](PLOT_Correlation_DHW_vs_Mortality.png)
+![Correlation](src/PLOT_Correlation_DHW_vs_Mortality.png)
 
 On remarque bien une corrélation entre le nombre de jours de Vague de Chaleur Marine (ici en semaine : DHW) et le Taux de Mortalité des coraux.
 Cependant, le SUD est bien loin d'avoir un taux de mortalité cohérent par rapport aux nombres de semaine de vague de chaleur. Pourquoi ?
@@ -142,7 +142,7 @@ Bien que Winston n'ait pas frappé directement la côte australienne (il a déva
 Données de : https://www.australiasevereweather.com/tropical_cyclones/2015_2016/
 
 
-![Cyclone Animation](VMAP_Cyclone_Winston-ezgif.com-optimize.gif)
+![Cyclone Animation](src/VMAP_Cyclone_Winston-ezgif.com-optimize.gif)
 
 ## 4. La Régénération : Le "Tapis Roulant" Australien (EAC)
 
@@ -157,7 +157,7 @@ Si elles sont capturées par l'EAC, elles peuvent voyager sur des centaines de k
 
 *La simulation ci-dessous modélise ce transport lagrangien de particules (larves) pour identifier les zones de connectivité potentielles.*
 
-![EAC Simulation](VMAP_EAC_help_regen.gif)
+![EAC Simulation](src/VMAP_EAC_help_regen.gif)
 
 ---
 
