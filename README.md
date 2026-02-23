@@ -117,7 +117,7 @@ Cependant, le SUD est bien loin d'avoir un taux de mortalité cohérent par rapp
 | Centre | 2.3      | 10.5          | 0.44       |
 | Sud    | 0.8      | 2.3           | 0.006      |
 
-*Note : Le R² quasi-nul du Sud prouve qu'un autre facteur a découplé le stress thermique de la mortalité.*
+*Note : Le R² quasi-nul du Sud prouve qu'un autre facteur a décuplé le stress thermique de la mortalité.*
 
 ---
 
