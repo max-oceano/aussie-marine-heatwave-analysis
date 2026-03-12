@@ -102,7 +102,7 @@ L'analyse purement statistique montre des "anomalies" dans le Nord : certains r�
 **L'explication ? Le courant NQC (North Queensland Current).**
 Ce courant de bord génère des **upwellings** (remontées d'eau froide) le long du talus continental. Ces eaux froides, invisibles pour les satellites basse résolution qui mesurent la surface, ont baigné les racines des récifs, créant des micro-refuges thermiques.
 
-*Le graphique ci-dessous modélise cette relation complexe entre le stress thermique satellitaire et la mortalité biologique réelle.*
+*Le graphique ci-dessous modélise cette relation complexe entre le stress thermique satellitaire et la mortalité biologique estimée.*
 
 
 
