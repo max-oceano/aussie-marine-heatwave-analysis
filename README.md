@@ -129,8 +129,8 @@ La réponse vient du ciel : **Le Cyclone Tropical Winston (Février 2016).**
 ### La Physique du "Mixing"
 
 Un cyclone agit comme une cuillère géante dans une tasse de café.
-1.  **Ekman Pumping :** Les vents violents tournant autour de l'œil aspirent l'eau profonde vers la surface.
-2.  **Mélange Vertical :** La couche de surface chaude (>30°C) est mélangée avec la thermocline froide située 30-50m plus bas.
+1.  **Ekman Pumping :** Les vents violents tournant autour de l'œil aspirent l'eau profonde vers la surface (upwelling).
+2.  **Mélange Vertical :** La couche de surface chaude (>30°C) est mélangée avec la couche d'eau thermocline froide située 30-50m plus bas.
 3.  **Refroidissement Latent :** L'évaporation massive due au vent extrait de la chaleur de l'océan.
 
 **L'Analyse :**
