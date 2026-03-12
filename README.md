@@ -87,7 +87,7 @@ A première vue, il semble y avoir une corrélation entre le nombre de jour de V
 
 ## 2. L'Impact Biologique : Satellite vs Réalité
 
-C'est ici que l'océanographie rencontre la biologie. Le satellite voit le stress (**DHW - Degree Heating Weeks**), mais seule l'observation sous-marine voit la mort.
+C'est ici que l'océanographie physique rencontre la biologie. Le satellite voit le stress (**DHW - Degree Heating Weeks**), mais seule l'observation sous-marine voit la mort.
 
 ### Les Faits Scientifiques (Hughes et al. 2017)
 
