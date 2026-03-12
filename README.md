@@ -146,7 +146,7 @@ Données de : https://www.australiasevereweather.com/tropical_cyclones/2015_2016
 
 ## 4. La Régénération : Le "Tapis Roulant" Australien (EAC)
 
-Après la dévastation, comment le récif se régénère-t-il ? Les coraux sont des animaux fixés (sessiles). Ils ne peuvent pas migrer. La survie de l'espèce dépend donc de la **Connectivité Larvaire**.
+Après la dévastation, comment le récif se régénère-t-il ? Les coraux sont des animaux fixés (polypes coralliens). Ils ne peuvent pas migrer. La survie de l'espèce dépend donc de la **Connectivité Larvaire**.
 
 ### L'East Australian Current (EAC)
 C'est le courant rendu célèbre par le film *Le Monde de Nemo*. C'est un puissant courant de bord ouest qui transporte des masses d'eau chaude (et tout ce qui flotte dedans) du Nord vers le Sud.
