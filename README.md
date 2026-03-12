@@ -93,8 +93,8 @@ C'est ici que l'océanographie physique rencontre la biologie. Le satellite voit
 
 L'étude publiée dans *Nature* a établi un gradient terrifiant pour 2016 :
 * **Nord (Lat > -15°S) :** La "zone de la mort". Des DHW dépassant souvent 8 à 10. Résultat : **67%** de mortalité moyenne sur les eaux peu profondes.
-* **Centre :** Une zone de transition. Bien que stressés, beaucoup de coraux ont blanchi sans mourir immédiatement (mortalité ~6% en 2016, aggravée en 2017).
-* **Sud (Lat < -20°S) :** Le miracle. Mortalité négligeable (<1%).
+* **Centre :** Une zone de transition. Bien que stressés, beaucoup de coraux ont blanchi sans mourir immédiatement (mortalité ~10% en 2016, aggravée en 2017).
+* **Sud (Lat < -20°S) :** Le miracle. Mortalité négligeable (<2%).
 
 ### La Nuance Océanographique (Huang et al. 2024)
 
