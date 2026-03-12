@@ -72,7 +72,7 @@ Par curiosité, quelle est la durée moyenne de jours de vague de chaleur sur l'
 
 ![Graph_anomalie_heatwave](src/PLOT_Anomalie_heatwave_marine.png)
 
-**11 jours** de vague de chaleur marine est la moyenne de l'ensemble de la GBR, pour aller plus loin et mettre en corrélation le stress thermique avec le blanchissement des coraux, il est nécessaire d'avoir une visualisation de la vague de chaleur marine sur des zones plus précises afin idenfitifer les zones les plus touchées de la GBR.
+**11 jours** de vague de chaleur marine est la moyenne de l'ensemble de la GBR, pour aller plus loin et mettre en corrélation le stress thermique avec le blanchissement des coraux, il est nécessaire d'avoir une visualisation de la vague de chaleur marine sur des zones plus précises afin identifer les zones les plus touchées de la GBR.
 
 ![Graph_anomalie_heatwave](src/MAP_heatwave_2016.png)
 
