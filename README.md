@@ -189,7 +189,6 @@ Ce projet est construit entièrement en Python, en utilisant la stack scientifiq
 Ce travail s'appuie sur la littérature scientifique récente :
 * *Hughes et al. (Nature, 2017)* : Global warming and recurrent mass bleaching.
 * *Huang et al. (Sci. Total Env., 2024)* : Marine heatwaves mechanisms & refugia.
-* *Wolanski et al. (2017)* : The Gulf of Carpentaria heated Torres Strait.
 
 ## Explorer le code
 
