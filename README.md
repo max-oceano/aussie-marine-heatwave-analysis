@@ -152,7 +152,7 @@ Après la dévastation, comment le récif se régénère-t-il ? Les coraux sont 
 C'est le courant rendu célèbre par le film *Le Monde de Nemo*. C'est un puissant courant de bord ouest qui transporte des masses d'eau chaude (et tout ce qui flotte dedans) du Nord vers le Sud.
 
 **L'Hypothèse du "Reseeding" (Réensemencement) :**
-Les récifs du Nord lointain et de Papouasie, moins touchés par l'activité humaine locale, servent de réservoirs génétiques. Lors de la ponte massive (généralement en novembre/décembre), des milliards de larves sont relâchées.
+Les récifs du Nord lointain et de Papouasie, moins touchés par les vagues de chaleurs, servent de réservoirs génétiques. Lors de la ponte massive (généralement en novembre/décembre), des milliards de larves sont relâchées.
 Si elles sont capturées par l'EAC, elles peuvent voyager sur des centaines de kilomètres pour recoloniser les récifs morts du Nord, Sud ou du Centre.
 
 *La simulation ci-dessous modélise ce transport lagrangien de particules (larves) pour identifier les zones de connectivité potentielles.*
