@@ -68,7 +68,7 @@ Lorsque l'on compare l'été 2016 aux moyennes historiques (calcul de la moyenne
 ![Anomalies_Marines_GBR_2016](src/MAP_Anomalie_heatwave_marine.png)
 
 On remarque que la zone Nord est la plus touché par ces anomalies de vague de chaleur, dépassant dans certains cas les **+2°C en moyenne par rapport au MMM** sur l'été 2016.
-Par curiosité, quelle est la durée moyenne de jours de vague de chaleu sur l'ensemble de la GBR sur l'été 2016 ?
+Par curiosité, quelle est la durée moyenne de jours de vague de chaleur sur l'ensemble de la GBR sur l'été 2016 ?
 
 ![Graph_anomalie_heatwave](src/PLOT_Anomalie_heatwave_marine.png)
 
